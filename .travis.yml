@@ -1,4 +1,4 @@
 language: node_js
 env: node.js
 node_js:
-  - "11.9.0”
+  - "11.9.0"
